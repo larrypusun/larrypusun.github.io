@@ -6,29 +6,26 @@ permalink: /research/
 
 {% include base_path %}
 
-Education
+Working Papers
 ======
-* Ph.D in Economics, University of Ottawa, 2025 (expected)
+* Environmental Regulation and Household Well-Being: Evidence from China's War on Pollution
+  * Presented at the 2023 CES North America Conference, 2023 CEA, the 33rd CREEA
+  * Draft
+* Long-Term Effect of Export-Induced Pollution and Economic Benefits on Children
+* Export Slowdown and Parental Investment: Evidence from China's Export Slowdown
+* Trade Liberalization and Promotion: Evidence from China
+
+
+
+Published Papers
+======
+* How Foreign Direct Investment Influences Carbon Emissions, Based on the Empirical Analysis of Chinese Urban Data (with Yang Zhou, Ying Kong and Rui Wu),
+Sustainability, 2018
+ 
+    
+Work in Progress
+======
+* Environmental Regulation and Household Well-Being: Evidence from China's War on Pollution
+  * Presented at the 2023 CES North America Conference, 2023 CEA, the 33rd CREEA
+  * Draft
 * M.A. in Public Administration, Tsinghua University, 2020
-* B.A. in Economics, Zhengzhou University, 2017
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
