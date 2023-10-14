@@ -1,15 +1,4 @@
 ---
 title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+This paper evaluates "China's War on Pollution" since 2014 using the legislation of "Key Region Policy" as a quasi-experimental research design. My results show that this new stringent environmental regulation significantly reduced PM2.5 concentrations. As a result of the reduction of PM2.5 concentrations, I find that the incidence of preterm birth declined. For elderly health, I document a significant reduction in chronic respiratory diseases, pollution-related chronic disease, and medical expenditure. Although there exists pollution exposure difference in occupational categories, I show that manufacturing workers gain larger reduction in chronic respiratory rate from such regulation. Back-of-the-envelope calculations indicate that Key Region Policy brings substantial benefits, which are valued at about $21.3 billion for the year 2017.
