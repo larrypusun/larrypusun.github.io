@@ -12,7 +12,7 @@ And now I am the 4-th year PhD student from University of Ottawa, [Department of
 
 My research field is international trade, environmental economics.
 
-You can find my CV here: [Jintao's CV] (../assets/JintaoFu_cv.pdf).
+You can find my CV here: [Jintao's CV](../assets/JintaoFu_cv.pdf).
 
 
 [Email:] jfu041@uottawa.ca
