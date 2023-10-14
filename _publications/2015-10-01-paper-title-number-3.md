@@ -1,5 +1,5 @@
 ---
-title: "Well-Being: Evidence from China's War on Pollution"
+title: "Environmental Regulation and Household Well-Being: Evidence from China's War on Pollution"
 collection: Working Papers
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'under review'
