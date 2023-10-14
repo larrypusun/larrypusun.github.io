@@ -1,14 +1,13 @@
 ---
-title: "Environmental Regulation and Household Well-Being: Evidence from China's War on Pollution"
-collection: Working Papers
+title: "3 Long-Term Effect of Export-Induced Pollution and Economic Benefits on Children"
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'under review'
 date: 2023-10-14
-venue: 'Under review.'
+venue: 'Author: Jintao Fu'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
- This paper evaluates "China's War on Pollution" since 2014 using the legislation of "Key Region Policy" as a quasi-experimental research design. My results show that this new stringent environmental regulation significantly reduced PM2.5 concentrations. As a result of the reduction of PM2.5 concentrations, I find that the incidence of preterm birth declined. For elderly health, I document a significant reduction in chronic respiratory diseases, pollution-related chronic disease, and medical expenditure. Although there exists pollution exposure difference in occupational categories, I show that manufacturing workers gain larger reduction in chronic respiratory rate from such regulation. Back-of-the-envelope calculations indicate that Key Region Policy brings substantial benefits, which are valued at about $21.3 billion for the year 2017.
+This paper sheds lights on how trade liberalization for infants affects long-term health and human capital outcomes 10 years later (i.e., at adolescence). The China's WTO accession brings huge economic benefits but also comes with increasing pollution concentrations. Exploiting the variation source of each prefecture's exposure to trade shock, we document a significant increase in self-rating health status during adolescence. In contrast, the pollution channel induced by trade shock also had significant negative effects on adolescents' math test scores.
+
 
 
