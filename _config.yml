@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jintao Fu's Homepage"
+title                    : "Jintao Fu"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Jintao Fu"
 description              : &description "personal description"
 url                      : https://jintaofu.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
