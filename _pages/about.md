@@ -10,10 +10,12 @@ redirect_from:
 
 I am the 4-th year PhD student from [Department of Economics], [University of Ottawa](https://www.uottawa.ca/faculty-social-sciences/economics).
 
+My research field is international trade, environmental economics.
+
 You can find my CV here: [Jintao's CV].
 
 
-[Email:]
+[Email:] jfu041@uottawa.ca
 
 
 A data-driven personal website
