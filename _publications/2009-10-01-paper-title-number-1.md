@@ -1,4 +1,7 @@
 ---
-title: "Paper Title Number 1"
+title: "2: Export Slowdown and Parental Investment: Evidence from China's Export Slowdown"
 ---
-This paper evaluates "China's War on Pollution" since 2014 using the legislation of "Key Region Policy" as a quasi-experimental research design. My results show that this new stringent environmental regulation significantly reduced PM2.5 concentrations. As a result of the reduction of PM2.5 concentrations, I find that the incidence of preterm birth declined. For elderly health, I document a significant reduction in chronic respiratory diseases, pollution-related chronic disease, and medical expenditure. Although there exists pollution exposure difference in occupational categories, I show that manufacturing workers gain larger reduction in chronic respiratory rate from such regulation. Back-of-the-envelope calculations indicate that Key Region Policy brings substantial benefits, which are valued at about $21.3 billion for the year 2017.
+This paper sheds lights on how the export slowdown affects the working age manufacturing worker's health status and their children investment behaviors in China
+during 2012 and 2016. This paper finds that the export slowdown negatively affects the physical health and mental health outcomes of manufacturing workers. I also
+find that this reduced parent’s education investment for their children. And the export slowdown reduced parental’ opinion about the importance of education level to
+child's future achievement. As a result, children’s education attainment is reduced due to less parental investment.
