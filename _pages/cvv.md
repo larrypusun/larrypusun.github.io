@@ -6,12 +6,10 @@ permalink: /cvv/
 
 {% include base_path %}
 
+
 Education
 ======
-* University of Ottawa
-  * Presented at the 2023 CES North America Conference, 2023 CEA, the 33rd CREEA
-* Tsinghua University
-* Zhengzhou University
-
-
+* Ph.D in Economics, University of Ottawa, 2025 (expected)
+* M.A. in Public Administration, Tsinghua University, 2020
+* B.A. in Economics, Zhengzhou University, 2017
 
