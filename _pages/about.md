@@ -17,3 +17,4 @@ You can find my CV here: [Jintao's CV](../assets/JintaoFu_cv.pdf).
 
 [Email:] jfu041@uottawa.ca
 
+"JintaoFup.png"
