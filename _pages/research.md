@@ -19,9 +19,9 @@ Working Papers
 
 Published Papers
 ======
-* Long-term effect of trade liberalization on human capital: evidence from Chinese students. China Economic Journal, 2024
+* Long-term effect of trade liberalization on human capital: evidence from Chinese students. [China Economic Journal](https://www.tandfonline.com/doi/full/10.1080/17538963.2024.2375479?src=exp-la), 2024
 * How Foreign Direct Investment Influences Carbon Emissions, Based on the Empirical Analysis of Chinese Urban Data (with Yang Zhou, Ying Kong and Rui Wu).
-Sustainability, 2018
+[Sustainability](https://www.mdpi.com/2071-1050/10/7/2163), 2018
  
     
 Work in Progress
