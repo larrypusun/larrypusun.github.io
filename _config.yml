@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Pu Sun's Personal Website"
 title_separator          : "-"
-name                     : &name "Jintao Fu"
+name                     : &name "Pu Sun"
 description              : &description "personal description"
 url                      : https://sunpu.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
