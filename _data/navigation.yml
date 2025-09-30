@@ -2,7 +2,7 @@
 main:
     
   - title: "CV"
-    url: /cvv/
+    url: /assets/cv.pdf
     
   - title: "Research"
     url: /research/
