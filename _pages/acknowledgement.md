@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Acknowledgement"
 permalink: /acknowledgement/
 ---
 
