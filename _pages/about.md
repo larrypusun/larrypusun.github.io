@@ -7,13 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I graduated from Tsinghua University, [School of Public Policy & Management](https://www.sppm.tsinghua.edu.cn/english/).
-And now I am the 4-th year PhD student from University of Ottawa, [Department of Economics](https://www.uottawa.ca/faculty-social-sciences/economics).
+I am an assistant professor in the School of Public Finance and Taxation at Dongbei University of Finance and Economics.
 
-My research field is international trade, environmental economics.
+I specialize in taxation economics, public economics, and development economics, with a particular focus on China.
 
-You can find my CV here: [Jintao's CV](../assets/JintaoFu_cv.pdf).
+I earned my PhD in Economics from the University of Ottawa in May 2025. I also hold a MA from the Central University of Finance and Economics and a BA from Minzu University of China.
 
+You can find my CV here: [Pu's CV](in English)(../assets/cv.pdf) and [简历](in Chinese)(../assets/CV_in_Chinese/pdf)
 
-[Email:] jfu041@uottawa.ca
+Email: sunpu@dufe.edu.cn
+
 
