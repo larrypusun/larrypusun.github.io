@@ -13,7 +13,7 @@ I specialize in taxation economics, public economics, and development economics,
 
 I earned my PhD in Economics from the University of Ottawa in May 2025. I also hold a MA from the Central University of Finance and Economics and a BA from Minzu University of China.
 
-You can find my CV here: [Pu's CV](in English)(../assets/cv.pdf) and [简历](in Chinese)(../assets/CV_in_Chinese/pdf)
+You can find my CV here: [Pu's CV](in English)(/assets/cv.pdf) and [简历](in Chinese)(/assets/CV_in_Chinese.pdf)
 
 Email: sunpu@dufe.edu.cn
 
