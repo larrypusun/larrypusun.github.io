@@ -6,27 +6,22 @@ permalink: /research/
 
 {% include base_path %}
 
+Publications:
+======
+
+1. [Replication and Sensitivity Analysis of  'Market Access and Quality Up-grading: Evidence from Four Field Experiments': A Comment on Bold et al. (2022b)](https://www.jcr-econ.org/market-access-and-quality-upgrading-replication/), with R. McWay and K. Nchare, _Journal of Comments and Replications in Economics_, 2024, 3(2).
+
+
+2. [Does the Targeted Poverty Alleviation Program Reduce Income Inequality in China](https://onlinelibrary.wiley.com/doi/10.1111/rode.70012), _Review of Development Economics_, forthcoming.
+
+
+
 Working Papers
 ======
-* Environmental Regulation and Household Well-Being: Evidence from China's War on Pollution
-  * Presented at the 2023 CES North America Conference, 2023 CEA, the 33rd CREEA
-  * Draft
-* Long-Term Effect of Export-Induced Pollution and Economic Benefits on Children
-* Export Slowdown and Parental Investment: Evidence from China's Export Slowdown
-* Trade Liberalization and Promotion: Evidence from China
+1. [Still in Pain? The Economic Suffering from the Wenchuan Earthquake in China](https://drive.google.com/file/d/16AKEEdEQb-DuZy2a_lrOne43BNSL4vZS/view)) (Reject and Resubmit at _Regional Science and Urban Economics_)
 
+2. [Too Young To Get Over: Earthquake Exposure and Educational Attainment](https://drive.google.com/file/d/1UAajhzwnGzmjjbXg5lxU6MN0sJM5SxH1/view) 
 
+3. [Mass Reproducibility and Replicability: A New Hope](https://econpapers.repec.org/paper/zbwi4rdps/107.htm) (Revise and Resubmit at Nature, contracted research assistant to this project), with A. Brodeur, D. Mikola, N. Cook et al, IZA Discussion Paper Series, No. 16912, 2024.
 
-Published Papers
-======
-* Long-term effect of trade liberalization on human capital: evidence from Chinese students. [China Economic Journal](https://www.tandfonline.com/doi/full/10.1080/17538963.2024.2375479?src=exp-la), 2024
-* How Foreign Direct Investment Influences Carbon Emissions, Based on the Empirical Analysis of Chinese Urban Data (with Yang Zhou, Ying Kong and Rui Wu).
-[Sustainability](https://www.mdpi.com/2071-1050/10/7/2163), 2018
- 
-    
-Work in Progress
-======
-* Environmental Regulation and Household Well-Being: Evidence from China's War on Pollution
-  * Presented at the 2023 CES North America Conference, 2023 CEA, the 33rd CREEA
-  * Draft
-* M.A. in Public Administration, Tsinghua University, 2020
+4. [Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science](https://econpapers.repec.org/paper/zbwi4rdps/195.htm) (Under review at _PNAS_, conception of revision participation, replication game participation, and reviewing through comments), with A. Brodeur, D. Valenta, A. Marcoci et al, I4R Discussion Paper, No. 195, 2025.
