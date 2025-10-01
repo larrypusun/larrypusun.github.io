@@ -6,4 +6,4 @@ permalink: /cv/
 
 {% include base_path %}
 
-<object data="/assets/cv.pdf" type="application/pdf" width="100%" height="1000px">
+<object data="assets/cv.pdf" type="application/pdf" width="100%" height="1000px">
