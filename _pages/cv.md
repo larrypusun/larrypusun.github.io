@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "CV"
-permalink: /cvv/
+permalink: /cv/
 author_profile: true
 ---
 
@@ -11,7 +11,7 @@ author_profile: true
 <object data="{{ base_path }}/assets/cv.pdf"
         type="application/pdf"
         width="100%"
-        height="1000px">
+        style="height:calc(100vh)">
   <p>
     Your browser can't display PDFs here.
     <a href="{{ base_path }}/assets/cv.pdf">Download the CV (PDF)</a>.
