@@ -11,7 +11,7 @@ author_profile: true
 <object data="{{ base_path }}/assets/cv.pdf"
         type="application/pdf"
         width="120%"
-        style="height:100vh;">
+        style="height:calc(100vh - 400px)">
   <p>
     Your browser can't display PDFs here.
     <a href="{{ base_path }}/assets/cv.pdf">Download the CV (PDF)</a>.
