@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an assistant professor in the School of Public Finance and Taxation at Dongbei University of Finance and Economics. 
+I am an assistant professor at the School of Public Finance and Taxation, Dongbei University of Finance and Economics. 
 
 I specialize in taxation economics, public economics, and development economics, with a particular focus on China.
 
