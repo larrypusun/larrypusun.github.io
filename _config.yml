@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pu Sun's Personal Website"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Pu Sun"
 description              : &description "personal description"
