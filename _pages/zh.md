@@ -2,6 +2,8 @@
 layout: archive
 title: 
 permalink: /zh/
+lang: zh
+direction: ltr
 ---
 {% include base_path %}
 
