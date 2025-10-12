@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Pu Sun (孙璞)"
   avatar           : "pusun.jpg"
-  bio              : "An assistant professor of economics at Dongbei University of Finance and Economics"
+# bio              : ""
   location         : "Dalian, China"
 # employer         : "Dongbei University of Finance and Economics"
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
