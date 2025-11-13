@@ -8,7 +8,7 @@ permalink: /teaching/
 
 ## Teaching 
 
-### Dongbei University of Finance and Economics：
+### 东北财经大学 / Dongbei University of Finance and Economics：
 《外国税收制度》（2026年春季学期）/ Foreign Tax System (2026 Spring)
 
 ## Teaching Assistant
