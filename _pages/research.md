@@ -23,7 +23,7 @@ Working Papers
 
 3. [Mass Reproducibility and Replicability: A New Hope](https://econpapers.repec.org/paper/zbwi4rdps/107.htm) (Revise and Resubmit at _Nature_, contracted research assistant to this project), with A. Brodeur, D. Mikola, N. Cook et al, IZA Discussion Paper Series, No. 16912, 2024.
 
-4. [Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science](https://econpapers.repec.org/paper/zbwi4rdps/195.htm) (Under review at _PNAS_, conception of revision participation, replication game participation, and reviewing through comments), with A. Brodeur, D. Valenta, A. Marcoci et al, I4R Discussion Paper, No. 195, 2025.
+4. [Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science](https://econpapers.repec.org/paper/zbwi4rdps/195.htm) (Revise and Resubmit at _PNAS_, conception of revision participation, replication game participation, and reviewing through comments), with A. Brodeur, D. Valenta, A. Marcoci et al, I4R Discussion Paper, No. 195, 2025.
 
 5. [A Comment on “Monitoring in Small Firms: Experimental Evidence from Kenyan Public Transit” (Kelly et al., 2024)](https://drive.google.com/file/d/1tspAGGLb3pvP6f0NOogCkZEeztcJjCTW/view?usp=sharing), (Repliaction report at the 2025 CEA Replication Games), with Christian Aleman-Pericon.
 
