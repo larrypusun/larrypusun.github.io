@@ -11,7 +11,7 @@ Publications:
 1. [Replication and Sensitivity Analysis of  'Market Access and Quality Up-grading: Evidence from Four Field Experiments': A Comment on Bold et al. (2022b)](https://www.jcr-econ.org/market-access-and-quality-upgrading-replication/), with R. McWay and K. Nchare, _Journal of Comments and Replications in Economics_, 2024, 3(2).
 
 
-2. [Does the Targeted Poverty Alleviation Program Reduce Income Inequality in China](https://onlinelibrary.wiley.com/doi/10.1111/rode.70012), _Review of Development Economics_, forthcoming.
+2. [Does the Targeted Poverty Alleviation Program Reduce Income Inequality in China](https://onlinelibrary.wiley.com/doi/10.1111/rode.70012), _Review of Development Economics_, 2026, 30(1), 484-502.
 
 
 
