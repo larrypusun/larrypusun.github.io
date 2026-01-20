@@ -19,13 +19,13 @@ Working Papers
 ======
 1. [Still in Pain? The Economic Suffering from the Wenchuan Earthquake in China](https://drive.google.com/file/d/16AKEEdEQb-DuZy2a_lrOne43BNSL4vZS/view) (Reject and Resubmit at _Regional Science and Urban Economics_)
 
-2. [Too Young To Get Over: Earthquake Exposure and Educational Attainment](https://drive.google.com/file/d/1UAajhzwnGzmjjbXg5lxU6MN0sJM5SxH1/view), with Jintao Fu.
+2. [Too Young To Get Over: Earthquake Exposure and Educational Attainment](https://drive.google.com/file/d/1UAajhzwnGzmjjbXg5lxU6MN0sJM5SxH1/view), with Jintao Fu. (Under Review)
 
-3. [Mass Reproducibility and Replicability: A New Hope](https://econpapers.repec.org/paper/zbwi4rdps/107.htm) (Revise and Resubmit at _Nature_, contracted research assistant to this project), with A. Brodeur, D. Mikola, N. Cook et al, IZA Discussion Paper Series, No. 16912, 2024.
+3. The Reproducibility and Robustness of Economics and Political Science, with A. Brodeur, D. Mikola, N. Cook et al. (Conditionally accepted at _Nature_, contracted research assistant to this project; Formerly circulated as "[Mass Reproducibility and Replicability: A New Hope](https://econpapers.repec.org/paper/zbwi4rdps/107.htm)", IZA Discussion Paper Series, No. 16912, 2024)
 
-4. [Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science](https://econpapers.repec.org/paper/zbwi4rdps/195.htm) (Revise and Resubmit at _PNAS_, conception of revision participation, replication game participation, and reviewing through comments), with A. Brodeur, D. Valenta, A. Marcoci et al, I4R Discussion Paper, No. 195, 2025.
+4. [Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science](https://econpapers.repec.org/paper/zbwi4rdps/195.htm), with A. Brodeur, D. Valenta, A. Marcoci et al, I4R Discussion Paper, No. 195, 2025. (Revise and Resubmit at _PNAS_, conception of revision participation, replication game participation, and reviewing through comments)
 
-5. [A Comment on “Monitoring in Small Firms: Experimental Evidence from Kenyan Public Transit” (Kelly et al., 2024)](https://drive.google.com/file/d/1tspAGGLb3pvP6f0NOogCkZEeztcJjCTW/view?usp=sharing), (Repliaction report at the 2025 CEA Replication Games), with Christian Aleman-Pericon.
+5. [A Comment on “Monitoring in Small Firms: Experimental Evidence from Kenyan Public Transit” (Kelly et al., 2024)](https://drive.google.com/file/d/1tspAGGLb3pvP6f0NOogCkZEeztcJjCTW/view?usp=sharing), with Christian Aleman-Pericon. (Repliaction report at the 2025 CEA Replication Games)
    
 
 Work in Progress
