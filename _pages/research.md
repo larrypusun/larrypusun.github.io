@@ -13,22 +13,22 @@ Publications:
 
 2. [Does the Targeted Poverty Alleviation Program Reduce Income Inequality in China](https://onlinelibrary.wiley.com/doi/10.1111/rode.70012), _Review of Development Economics_, 2026, 30(1), 484-502.
 
-3. [Reproducibility and Robustness of Economics and Political Science Research](https://doi.org/10.1038/s41586-026-10251-x), with Abel Brodeur et al., _Nature_, 2026, 652, 151-156. (Contracted research assistant to this project)
+3. [Reproducibility and Robustness of Economics and Political Science Research](https://doi.org/10.1038/s41586-026-10251-x), with A. Brodeur et al., _Nature_, 2026, 652, 151-156. (Contracted research assistant to this project)
 
 
 Working Papers
 ======
 1. [Still in Pain? The Economic Suffering from the Wenchuan Earthquake in China](https://drive.google.com/file/d/16AKEEdEQb-DuZy2a_lrOne43BNSL4vZS/view) (Reject and Resubmit at _Regional Science and Urban Economics_)
 
-2. [Too Young To Get Over: Earthquake Exposure and Educational Attainment](https://drive.google.com/file/d/1UAajhzwnGzmjjbXg5lxU6MN0sJM5SxH1/view), with Jintao Fu. 
+2. [Too Young To Get Over: Earthquake Exposure and Educational Attainment](https://drive.google.com/file/d/1UAajhzwnGzmjjbXg5lxU6MN0sJM5SxH1/view), with J. Fu. 
 
 3. [Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science](https://econpapers.repec.org/paper/zbwi4rdps/195.htm), with A. Brodeur, D. Valenta, A. Marcoci et al, I4R Discussion Paper, No. 195, 2025. (Forthcoming at _PNAS_, conception of revision participation, replication game participation, and reviewing through comments)
 
-4. [A Comment on “Monitoring in Small Firms: Experimental Evidence from Kenyan Public Transit” (Kelly et al., 2024)](https://drive.google.com/file/d/1tspAGGLb3pvP6f0NOogCkZEeztcJjCTW/view?usp=sharing), with Christian Aleman-Pericon. (Repliaction report at the 2025 CEA Replication Games)
+4. [A Comment on “Monitoring in Small Firms: Experimental Evidence from Kenyan Public Transit” (Kelly et al., 2024)](https://drive.google.com/file/d/1tspAGGLb3pvP6f0NOogCkZEeztcJjCTW/view?usp=sharing), with C. Aleman-Pericon. (Repliaction report at the 2025 CEA Replication Games)
    
-5. Can Export Destination Income Affect Exporter's Emission Behaviors: Evidence from China, with Jintao Fu.
+5. Can Export Destination Income Affect Exporter's Emission Behaviors: Evidence from China, with J. Fu.
 
-6. Do Intergovernmental Fiscal Arrangements Ease Local Government Debt Pressure? Evidence from China, with Tongwei Du.
+6. Do Intergovernmental Fiscal Arrangements Ease Local Government Debt Pressure? Evidence from China, with T. Du.
 
 
 
