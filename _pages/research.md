@@ -15,12 +15,12 @@ Publications:
 
 3. [Reproducibility and Robustness of Economics and Political Science Research](https://doi.org/10.1038/s41586-026-10251-x), with A. Brodeur et al., _Nature_, 2026, 652, 151-156. (Contracted research assistant to this project)
 
-4. [AI-assisted Teams Outperform AI-led Teams but Not Human-only Teams in Assessing Research Reproducibility in Quantitative Social Ecience](https://doi.org/10.1073/pnas.2524747123), with A. Brodeur et al., _Proceedings of the National Academy of Sciences_, 2026, 123(22), e2524747123. (Research design, research performance, and paper review)
+4. [AI-assisted Teams Outperform AI-led Teams but Not Human-only Teams in Assessing Research Reproducibility in Quantitative Social Science](https://doi.org/10.1073/pnas.2524747123), with A. Brodeur et al., _Proceedings of the National Academy of Sciences_, 2026, 123(22), e2524747123. (Research design, research performance, and paper review)
 
 
 Working Papers
 ======
-1. [Still in Pain? The Economic Suffering from the Wenchuan Earthquake in China](https://drive.google.com/file/d/16AKEEdEQb-DuZy2a_lrOne43BNSL4vZS/view) (Reject and Resubmit at _Regional Science and Urban Economics_)
+1. [Still in Pain? The Economic Suffering from the Wenchuan Earthquake in China](https://drive.google.com/file/d/16AKEEdEQb-DuZy2a_lrOne43BNSL4vZS/view) (Revise and Resubmit at _Regional Science and Urban Economics_)
 
 2. [Too Young To Get Over: Earthquake Exposure and Educational Attainment](https://drive.google.com/file/d/1UAajhzwnGzmjjbXg5lxU6MN0sJM5SxH1/view), with J. Fu. 
 
