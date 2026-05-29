@@ -15,7 +15,7 @@ Publications:
 
 3. [Reproducibility and Robustness of Economics and Political Science Research](https://doi.org/10.1038/s41586-026-10251-x), with A. Brodeur et al., _Nature_, 2026, 652, 151-156. (Contracted research assistant to this project)
 
-4. [AI-assisted Teams Outperform AI-led Teams but Not Human-only Teams in Assessing Research Reproducibility in Quantitative Social Ecience](https://doi.org/10.1073/pnas.2524747123), with A. Brodeur et al., _Proceedings of the National Academy of Sciences of the United States of America_, 2026, 123(22), e2524747123.
+4. [AI-assisted Teams Outperform AI-led Teams but Not Human-only Teams in Assessing Research Reproducibility in Quantitative Social Ecience](https://doi.org/10.1073/pnas.2524747123), with A. Brodeur et al., _Proceedings of the National Academy of Sciences_, 2026, 123(22), e2524747123. (Research design, research performance, and paper review)
 
 
 Working Papers
