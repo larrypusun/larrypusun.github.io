@@ -4,7 +4,8 @@ permalink: /research/
 ---
 
 {% include base_path %}
-
+<div class="secondary-page-content" markdown="1">
+   
 Publications:
 ======
 
@@ -28,7 +29,11 @@ Working Papers
    
 4. Can Export Destination Income Affect Exporter's Emission Behaviors: Evidence from China, with J. Fu.
 
-5. Do Intergovernmental Fiscal Arrangements Ease Local Government Debt Pressure? Evidence from China, with T. Du.
+
+
+</div>
+
+6. Do Intergovernmental Fiscal Arrangements Ease Local Government Debt Pressure? Evidence from China, with T. Du.
 
 
 
