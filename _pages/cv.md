@@ -10,9 +10,9 @@ author_profile: true
 <!-- PDF viewer -->
 <iframe
   src="{{ base_path }}/assets/cv.pdf"
-  title="Curriculum Vitae"
+  title="Curriculum Vitae of Pu Sun"
   width="100%"
-  style="height: calc(100vh - 180px); min-height: 700px; max-height: 1500px; border: 0;">
+  style="display: block; height: calc(100vh - 180px); min-height: 700px; max-height: 1500px; border: 0;">
 </iframe>
 
 <p class="cv-download">
