@@ -13,6 +13,6 @@ I work in public economics and development economics, with particular focuses on
 
 I earned my PhD in Economics from University of Ottawa in May 2025. I also hold a MA from Central University of Finance and Economics and a BA from Minzu University of China.
 
-My [CV](../assets/cv.pdf) (in English) and [简历](../assets/CV_in_Chinese.pdf) (in Chinese) are here.
+Please view my [CV](../assets/cv.pdf) here.
 
 Email: sunpu@dufe.edu.cn
