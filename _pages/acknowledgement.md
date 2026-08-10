@@ -3,7 +3,8 @@ layout: archive
 title: 
 permalink: /acknowledgement/
 ---
-
+<div class="secondary-page-content" markdown="1">
+  
 I feel fortunate to have met my supervisor and thesis committee members during my PhD at uOttawa. They gave me many invaluable insights on research, provided thoughtful comments, and guided me to become a better economist. I learned a lot from them. Thank you all so much! 
 
 **PhD Advisor and Thesis Committee Members:**
@@ -16,3 +17,4 @@ I feel fortunate to have met my supervisor and thesis committee members during m
 
 [Louis-Philippe Beland](https://www.lpbeland.com/) (committee member): Louis-Philippe is an associate professor at Carleton University, specializing in public economics, health economics, and labour economics. I took his labour economics course in my second year, and one of the assignments was to write a referee report, which turned out to be incredibly helpful for my research skills later on. 
 
+</div>
