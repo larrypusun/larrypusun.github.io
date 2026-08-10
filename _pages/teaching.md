@@ -5,7 +5,8 @@ permalink: /teaching/
 ---
 
 {% include base_path %}
-
+<div class="secondary-page-content" markdown="1">
+  
 ## Teaching 
 
 ### 东北财经大学 / Dongbei University of Finance and Economics：
@@ -20,3 +21,5 @@ permalink: /teaching/
 ## Teaching Assistant
 
 At the University of Ottawa, I served as teaching assistant for various economics courses, such as Mathematical Economics, Macroeconomic Theory, Development Economics, and Introduction to Econometrics.
+
+</div>
