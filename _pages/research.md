@@ -11,7 +11,6 @@ Publications:
 
 1. [Replication and Sensitivity Analysis of  'Market Access and Quality Up-grading: Evidence from Four Field Experiments': A Comment on Bold et al. (2022b)](https://www.jcr-econ.org/market-access-and-quality-upgrading-replication/), with R. McWay and K. Nchare, _Journal of Comments and Replications in Economics_, 2024, 3(2).
 
-
 2. [Does the Targeted Poverty Alleviation Program Reduce Income Inequality in China](https://onlinelibrary.wiley.com/doi/10.1111/rode.70012), _Review of Development Economics_, 2026, 30(1), 484-502.
 
 3. [Reproducibility and Robustness of Economics and Political Science Research](https://doi.org/10.1038/s41586-026-10251-x), with A. Brodeur et al., _Nature_, 2026, 652, 151-156. (Contracted research assistant to this project)
@@ -29,11 +28,11 @@ Working Papers
    
 4. Can Export Destination Income Affect Exporter's Emission Behaviors: Evidence from China, with J. Fu.
 
-
+5. Do Intergovernmental Fiscal Arrangements Ease Local Government Debt Pressure?, with T. Du.
 
 </div>
 
-6. Do Intergovernmental Fiscal Arrangements Ease Local Government Debt Pressure? Evidence from China, with T. Du.
+
 
 
 
